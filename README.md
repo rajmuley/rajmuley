@@ -1,6 +1,8 @@
 ### Hi 👋
 🌱 I’m currently learning Full Stack Development.
+
 📫 How to reach me:rajmuley1@gmail.com,[Whatsapp me](https://wa.me/919405941894).
+
 👯 I’m looking for the job in IT.
 
 <!--
